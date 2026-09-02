@@ -1,257 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="195" viewBox="0 0 300 195" fill="none">
+  <rect width="300" height="195" rx="6" fill="#151515" stroke="#E4E4E4" stroke-opacity="0.15" stroke-width="1"/>
 
-      <svg
-        width="300"
-        height="165"
-        viewBox="0 0 300 165"
-        fill="none"
-        xmlns="http://www.w3.org/2000/svg"
-        role="img"
-        aria-labelledby="descId"
-      >
-        <title id="titleId"></title>
-        <desc id="descId"></desc>
-        <style>
-          .header {
-            font: 600 18px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif;
-            fill: #fff;
-            animation: fadeInAnimation 0.8s ease-in-out forwards;
-          }
-          @supports(-moz-appearance: auto) {
-            /* Selector detects Firefox */
-            .header { font-size: 15.5px; }
-          }
-          
-    .lang-name {
-      font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9f9f9f;
-    }
-    .stagger {
-      opacity: 0;
-      animation: fadeInAnimation 0.3s ease-in-out forwards;
-    }
-    .lang-progress {
-      animation: growWidthAnimation 0.6s ease-in-out forwards;
-    }
-    #rect-mask rect {
-      animation: slideInAnimation 1s ease-in-out forwards;
-    }
-    @keyframes progressAnimation {
-      from {
-        width: 0;
-      }
-    }
-    @keyframes slideInAnimation {
-      from {
-        width: 0;
-      }
-      to {
-        width: calc(100%-100px);
-      }
-    }
-    @keyframes growWidthAnimation {
-      from {
-        width: 0;
-      }
-      to {
-        width: 100%;
-      }
-    }
-    @keyframes fadeInAnimation {
-      from {
-        opacity: 0;
-      }
-      to {
-        opacity: 1;
-      }
-    }
-  
+  <text x="25" y="35" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="16" font-weight="600" fill="#2F80ED">Most Used Languages</text>
 
-          
-      /* Animations */
-      @keyframes scaleInAnimation {
-        from {
-          transform: translate(-5px, 5px) scale(0);
-        }
-        to {
-          transform: translate(-5px, 5px) scale(1);
-        }
-      }
-      @keyframes fadeInAnimation {
-        from {
-          opacity: 0;
-        }
-        to {
-          opacity: 1;
-        }
-      }
-      @keyframes slideInAnimation {
-        from {
-          transform: translateX(-10px);
-          opacity: 0;
-        }
-        to {
-          transform: translateX(0);
-          opacity: 1;
-        }
-      }
-      @keyframes bounceInAnimation {
-        0% {
-          transform: scale(0.3);
-          opacity: 0;
-        }
-        50% {
-          transform: scale(1.05);
-        }
-        70% {
-          transform: scale(0.9);
-        }
-        100% {
-          transform: scale(1);
-          opacity: 1;
-        }
-      }
-    
-          
-        </style>
-
-        
-
-        <rect
-          data-testid="card-bg"
-          x="0.5"
-          y="0.5"
-          rx="4.5"
-          height="99%"
-          stroke="#e4e2e2"
-          width="299"
-          fill="#151515"
-          stroke-opacity="0.0"
-        />
-
-        
-      <g
-        data-testid="card-title"
-        transform="translate(25, 35)"
-      >
-        <g transform="translate(0, 0)">
-      <text
-        x="0"
-        y="0"
-        class="header"
-        data-testid="header"
-      >Most Used Languages</text>
+  <g transform="translate(25, 50)">
+    <mask id="bar-mask"><rect width="250" height="8" rx="4" fill="#FFFFFF"/></mask>
+    <g mask="url(#bar-mask)">
+      <rect x="0.0" y="0" width="191.4" height="8" fill="#3178c6"/><rect x="191.4" y="0" width="28.8" height="8" fill="#3572A5"/><rect x="220.2" y="0" width="21.2" height="8" fill="#f1e05a"/><rect x="241.4" y="0" width="7.6" height="8" fill="#563d7c"/><rect x="249.0" y="0" width="2.0" height="8" fill="#e34c26"/><rect x="251.0" y="0" width="2.0" height="8" fill="#58a6ff"/>
     </g>
-      </g>
-    
-
-        <g
-          data-testid="main-card-body"
-          transform="translate(0, 55)"
-        >
-          
-    <svg data-testid="lang-items" x="25">
-      
-  
-      <mask id="rect-mask">
-        <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
-      </mask>
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="0.00"
-          y="0"
-          width="191.41"
-          height="8"
-          fill="#3178c6"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="191.41"
-          y="0"
-          width="28.76"
-          height="8"
-          fill="#3572A5"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="220.17"
-          y="0"
-          width="21.25"
-          height="8"
-          fill="#f1e05a"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="241.41"
-          y="0"
-          width="17.56"
-          height="8"
-          fill="#663399"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="248.97"
-          y="0"
-          width="10.98"
-          height="8"
-          fill="#e34c26"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="249.95"
-          y="0"
-          width="10.05"
-          height="8"
-          fill="#7e858d"
-        />
-      
-    
-  <g transform="translate(0, 25)">
-    <g transform="translate(0, 0)"><g transform="translate(0, 0)">
-    <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#3178c6" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">TypeScript 76.56%</text>
-    </g>
-  </g><g transform="translate(0, 25)">
-    <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#3572A5" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">Python 11.50%</text>
-    </g>
-  </g><g transform="translate(0, 50)">
-    <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">JavaScript 8.50%</text>
-    </g>
-  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
-    <g class="stagger" style="animation-delay: 900ms">
-      <circle cx="5" cy="6" r="5" fill="#663399" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">CSS 3.02%</text>
-    </g>
-  </g><g transform="translate(0, 25)">
-    <g class="stagger" style="animation-delay: 1050ms">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">HTML 0.39%</text>
-    </g>
-  </g><g transform="translate(0, 50)">
-    <g class="stagger" style="animation-delay: 1200ms">
-      <circle cx="5" cy="6" r="5" fill="#7e858d" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">Mako 0.02%</text>
-    </g>
-  </g></g>
   </g>
-  
-    </svg>
-  
-        </g>
-      </svg>
-    
+
+  <g transform="translate(25, 75)">
+    <g transform="translate(0, 0)">
+      <circle cx="5" cy="6" r="4" fill="#3178c6"/>
+      <text x="15" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#8B949E">TypeScript</text>
+      <text x="115" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="end">76.6%</text>
+    </g><g transform="translate(130, 0)">
+      <circle cx="5" cy="6" r="4" fill="#3572A5"/>
+      <text x="15" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#8B949E">Python</text>
+      <text x="115" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="end">11.5%</text>
+    </g><g transform="translate(0, 22)">
+      <circle cx="5" cy="6" r="4" fill="#f1e05a"/>
+      <text x="15" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#8B949E">JavaScript</text>
+      <text x="115" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="end">8.5%</text>
+    </g><g transform="translate(130, 22)">
+      <circle cx="5" cy="6" r="4" fill="#563d7c"/>
+      <text x="15" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#8B949E">CSS</text>
+      <text x="115" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="end">3.0%</text>
+    </g><g transform="translate(0, 44)">
+      <circle cx="5" cy="6" r="4" fill="#e34c26"/>
+      <text x="15" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#8B949E">HTML</text>
+      <text x="115" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="end">0.4%</text>
+    </g><g transform="translate(130, 44)">
+      <circle cx="5" cy="6" r="4" fill="#58a6ff"/>
+      <text x="15" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#8B949E">Mako</text>
+      <text x="115" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="end">0.0%</text>
+    </g>
+  </g>
+</svg>

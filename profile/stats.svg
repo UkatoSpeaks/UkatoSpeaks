@@ -1,15 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #2F80ED; }
+    .stat { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8B949E; }
+    .value { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFFFFF; }
+    .rank-circle { fill: none; stroke: #2F80ED; stroke-width: 6; }
+    .rank-text { font: 700 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #2F80ED; text-anchor: middle; dominant-baseline: central; }
+  </style>
 
-    <svg width="576.5"  height="120" viewBox="0 0 576.5 120" fill="#151515" xmlns="http://www.w3.org/2000/svg">
-    <style>
-    .text { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #fff }
-    .small { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9f9f9f }
-    .gray { fill: #858585 }
-    </style>
-    <rect x="0.5" y="0.5" width="575.5" height="99%" rx="4.5" fill="#151515" stroke="#e4e2e2"/>
-    <text x="25" y="45" class="text">Something went wrong! file an issue at https://tiny.one/readme-stats</text>
-    <text data-testid="message" x="25" y="55" class="text small">
-      <tspan x="25" dy="18">Resource not accessible by integration</tspan>
-      <tspan x="25" dy="18" class="gray">FORBIDDEN</tspan>
-    </text>
-    </svg>
-  
+  <rect width="495" height="195" rx="6" fill="#151515" stroke="#E4E4E4" stroke-opacity="0.15" stroke-width="1"/>
+
+  <g transform="translate(25, 35)">
+    <text x="0" y="0" class="header">Anurag's GitHub Stats</text>
+  </g>
+
+  <g transform="translate(25, 65)">
+    <!-- Total Stars -->
+    <g transform="translate(0, 0)">
+      <path fill="#2F80ED" d="M8 0L10.472 5.008L16 5.816L12 9.712L12.944 15.216L8 12.616L3.056 15.216L4 9.712L0 5.816L5.528 5.008L8 0Z"/>
+      <text x="25" y="12" class="stat">Total Stars:</text>
+      <text x="170" y="12" class="value">2</text>
+    </g>
+
+    <!-- Total Commits -->
+    <g transform="translate(0, 25)">
+      <path fill="#2F80ED" d="M1.5 8a6.5 6.5 0 0113 0 6.5 6.5 0 01-13 0zM8 3a5 5 0 100 10A5 5 0 008 3z"/>
+      <text x="25" y="12" class="stat">Total Commits:</text>
+      <text x="170" y="12" class="value">42</text>
+    </g>
+
+    <!-- Total PRs -->
+    <g transform="translate(0, 50)">
+      <path fill="#2F80ED" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a1.25 1.25 0 100 2.5 1.25 1.25 0 000-2.5z"/>
+      <text x="25" y="12" class="stat">Total PRs:</text>
+      <text x="170" y="12" class="value">28</text>
+    </g>
+
+    <!-- Total Issues -->
+    <g transform="translate(0, 75)">
+      <path fill="#2F80ED" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8z"/>
+      <text x="25" y="12" class="stat">Total Issues:</text>
+      <text x="170" y="12" class="value">0</text>
+    </g>
+
+    <!-- Repositories -->
+    <g transform="translate(0, 100)">
+      <path fill="#2F80ED" d="M2 2.5A1.5 1.5 0 013.5 1h9A1.5 1.5 0 0114 2.5v11a1.5 1.5 0 01-1.5 1.5h-9A1.5 1.5 0 012 13.5v-11z"/>
+      <text x="25" y="12" class="stat">Public Repositories:</text>
+      <text x="170" y="12" class="value">42</text>
+    </g>
+  </g>
+
+  <!-- Rank Circle -->
+  <g transform="translate(400, 110)">
+    <circle cx="0" cy="0" r="40" class="rank-circle"/>
+    <text x="0" y="0" class="rank-text">A</text>
+  </g>
+</svg>
