@@ -20,8 +20,8 @@ AI / Full Stack Engineer | Backend & Agentic AI Developer | Building Real-World 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ukatospeaks&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ukatospeaks?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=UkatoSpeaks&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/UkatoSpeaks?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
 </p>
 
 ---
@@ -181,7 +181,7 @@ Explore my GitHub repositories for more AI experiments, backend systems, full-st
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=UkatoSpeaks&theme=darkhub&no-frame=true&margin-w=10&row=1&column=7"
+    src="./profile/trophy.svg"
     alt="GitHub Trophies"
   />
 </p>
@@ -193,16 +193,15 @@ Explore my GitHub repositories for more AI experiments, backend systems, full-st
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=UkatoSpeaks&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"
-    alt="UkatoSpeaks GitHub Stats"
+    src="./profile/stats.svg"
+    alt="GitHub Stats"
   />
 
-<img
- height="170"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=UkatoSpeaks&layout=compact&theme=dark&hide_border=true&langs_count=8"
- alt="UkatoSpeaks Top Languages"
-/>
-
+  <img
+    height="170"
+    src="./profile/top-langs.svg"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -224,17 +223,6 @@ Explore my GitHub repositories for more AI experiments, backend systems, full-st
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=UkatoSpeaks&theme=react-dark&hide_border=true&area=true"
     alt="UkatoSpeaks GitHub Contribution Activity"
-  />
-</p>
-
----
-
-# 📅 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=UkatoSpeaks&bg_color=0d1117&color=ffffff&line=2ea44f&point=ffffff&area=true&hide_border=true"
-    alt="UkatoSpeaks Contribution Graph"
   />
 </p>
 

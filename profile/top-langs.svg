@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="165" viewBox="0 0 300 165" fill="none">
+  <rect width="300" height="165" rx="4.5" fill="#151515" stroke="#E4E4E4" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" fill="#2F80ED" font-family="Segoe UI, Ubuntu, sans-serif" font-size="16" font-weight="600">
+    Most Used Languages
+  </text>
+  <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" fill="#8B949E" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">
+    Generating language stats...
+  </text>
+</svg>
