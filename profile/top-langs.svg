@@ -6,7 +6,7 @@
   <g transform="translate(25, 50)">
     <mask id="bar-mask"><rect width="250" height="8" rx="4" fill="#FFFFFF"/></mask>
     <g mask="url(#bar-mask)">
-      <rect x="0.0" y="0" width="191.4" height="8" fill="#3178c6"/><rect x="191.4" y="0" width="28.8" height="8" fill="#3572A5"/><rect x="220.2" y="0" width="21.2" height="8" fill="#f1e05a"/><rect x="241.4" y="0" width="7.6" height="8" fill="#563d7c"/><rect x="249.0" y="0" width="2.0" height="8" fill="#e34c26"/><rect x="251.0" y="0" width="2.0" height="8" fill="#58a6ff"/>
+      <rect x="0.0" y="0" width="191.0" height="8" fill="#3178c6"/><rect x="191.0" y="0" width="29.2" height="8" fill="#3572A5"/><rect x="220.2" y="0" width="21.2" height="8" fill="#f1e05a"/><rect x="241.4" y="0" width="7.5" height="8" fill="#563d7c"/><rect x="249.0" y="0" width="2.0" height="8" fill="#e34c26"/><rect x="251.0" y="0" width="2.0" height="8" fill="#58a6ff"/>
     </g>
   </g>
 
@@ -14,11 +14,11 @@
     <g transform="translate(0, 0)">
       <circle cx="5" cy="6" r="4" fill="#3178c6"/>
       <text x="15" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#8B949E">TypeScript</text>
-      <text x="115" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="end">76.6%</text>
+      <text x="115" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="end">76.4%</text>
     </g><g transform="translate(130, 0)">
       <circle cx="5" cy="6" r="4" fill="#3572A5"/>
       <text x="15" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#8B949E">Python</text>
-      <text x="115" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="end">11.5%</text>
+      <text x="115" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="end">11.7%</text>
     </g><g transform="translate(0, 22)">
       <circle cx="5" cy="6" r="4" fill="#f1e05a"/>
       <text x="15" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#8B949E">JavaScript</text>
