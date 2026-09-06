@@ -25,7 +25,7 @@
     <g transform="translate(0, 25)">
       <path fill="#2F80ED" d="M1.5 8a6.5 6.5 0 0113 0 6.5 6.5 0 01-13 0zM8 3a5 5 0 100 10A5 5 0 008 3z"/>
       <text x="25" y="12" class="stat">Total Commits:</text>
-      <text x="170" y="12" class="value">47</text>
+      <text x="170" y="12" class="value">49</text>
     </g>
 
     <!-- Total PRs -->
@@ -46,7 +46,7 @@
     <g transform="translate(0, 100)">
       <path fill="#2F80ED" d="M2 2.5A1.5 1.5 0 013.5 1h9A1.5 1.5 0 0114 2.5v11a1.5 1.5 0 01-1.5 1.5h-9A1.5 1.5 0 012 13.5v-11z"/>
       <text x="25" y="12" class="stat">Public Repositories:</text>
-      <text x="170" y="12" class="value">42</text>
+      <text x="170" y="12" class="value">43</text>
     </g>
   </g>
 
