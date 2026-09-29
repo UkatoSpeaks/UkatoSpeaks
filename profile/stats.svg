@@ -25,14 +25,14 @@
     <g transform="translate(0, 25)">
       <path fill="#2F80ED" d="M1.5 8a6.5 6.5 0 0113 0 6.5 6.5 0 01-13 0zM8 3a5 5 0 100 10A5 5 0 008 3z"/>
       <text x="25" y="12" class="stat">Total Commits:</text>
-      <text x="170" y="12" class="value">120</text>
+      <text x="170" y="12" class="value">125</text>
     </g>
 
     <!-- Total PRs -->
     <g transform="translate(0, 50)">
       <path fill="#2F80ED" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a1.25 1.25 0 100 2.5 1.25 1.25 0 000-2.5z"/>
       <text x="25" y="12" class="stat">Total PRs:</text>
-      <text x="170" y="12" class="value">28</text>
+      <text x="170" y="12" class="value">0</text>
     </g>
 
     <!-- Total Issues -->
