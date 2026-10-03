@@ -6,7 +6,7 @@
   <g transform="translate(25, 50)">
     <mask id="bar-mask"><rect width="250" height="8" rx="4" fill="#FFFFFF"/></mask>
     <g mask="url(#bar-mask)">
-      <rect x="0.0" y="0" width="138.7" height="8" fill="#3178c6"/><rect x="138.7" y="0" width="89.7" height="8" fill="#3572A5"/><rect x="228.3" y="0" width="14.3" height="8" fill="#f1e05a"/><rect x="242.6" y="0" width="5.5" height="8" fill="#563d7c"/><rect x="248.1" y="0" width="2.0" height="8" fill="#e34c26"/><rect x="250.1" y="0" width="2.0" height="8" fill="#58a6ff"/><rect x="252.1" y="0" width="2.0" height="8" fill="#58a6ff"/>
+      <rect x="0.0" y="0" width="139.5" height="8" fill="#3178c6"/><rect x="139.5" y="0" width="87.0" height="8" fill="#3572A5"/><rect x="226.5" y="0" width="15.0" height="8" fill="#f1e05a"/><rect x="241.6" y="0" width="6.3" height="8" fill="#563d7c"/><rect x="247.8" y="0" width="2.0" height="8" fill="#e34c26"/><rect x="249.8" y="0" width="2.0" height="8" fill="#58a6ff"/><rect x="251.8" y="0" width="2.0" height="8" fill="#58a6ff"/>
     </g>
   </g>
 
@@ -14,23 +14,23 @@
     <g transform="translate(0, 0)">
       <circle cx="5" cy="6" r="4" fill="#3178c6"/>
       <text x="15" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#8B949E">TypeScript</text>
-      <text x="115" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="end">55.5%</text>
+      <text x="115" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="end">55.8%</text>
     </g><g transform="translate(130, 0)">
       <circle cx="5" cy="6" r="4" fill="#3572A5"/>
       <text x="15" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#8B949E">Python</text>
-      <text x="115" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="end">35.9%</text>
+      <text x="115" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="end">34.8%</text>
     </g><g transform="translate(0, 22)">
       <circle cx="5" cy="6" r="4" fill="#f1e05a"/>
       <text x="15" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#8B949E">JavaScript</text>
-      <text x="115" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="end">5.7%</text>
+      <text x="115" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="end">6.0%</text>
     </g><g transform="translate(130, 22)">
       <circle cx="5" cy="6" r="4" fill="#563d7c"/>
       <text x="15" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#8B949E">CSS</text>
-      <text x="115" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="end">2.2%</text>
+      <text x="115" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="end">2.5%</text>
     </g><g transform="translate(0, 44)">
       <circle cx="5" cy="6" r="4" fill="#e34c26"/>
       <text x="15" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#8B949E">HTML</text>
-      <text x="115" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="end">0.4%</text>
+      <text x="115" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="end">0.5%</text>
     </g><g transform="translate(130, 44)">
       <circle cx="5" cy="6" r="4" fill="#58a6ff"/>
       <text x="15" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#8B949E">Jupyter Notebook</text>
