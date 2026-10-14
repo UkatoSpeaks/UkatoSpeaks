@@ -6,7 +6,7 @@
   <g transform="translate(25, 50)">
     <mask id="bar-mask"><rect width="250" height="8" rx="4" fill="#FFFFFF"/></mask>
     <g mask="url(#bar-mask)">
-      <rect x="0.0" y="0" width="139.3" height="8" fill="#3178c6"/><rect x="139.3" y="0" width="89.9" height="8" fill="#3572A5"/><rect x="229.2" y="0" width="13.2" height="8" fill="#f1e05a"/><rect x="242.4" y="0" width="5.7" height="8" fill="#563d7c"/><rect x="248.1" y="0" width="2.0" height="8" fill="#e34c26"/><rect x="250.1" y="0" width="2.0" height="8" fill="#58a6ff"/><rect x="252.1" y="0" width="2.0" height="8" fill="#58a6ff"/>
+      <rect x="0.0" y="0" width="139.3" height="8" fill="#3178c6"/><rect x="139.3" y="0" width="90.1" height="8" fill="#3572A5"/><rect x="229.4" y="0" width="13.0" height="8" fill="#f1e05a"/><rect x="242.4" y="0" width="5.7" height="8" fill="#563d7c"/><rect x="248.1" y="0" width="2.0" height="8" fill="#e34c26"/><rect x="250.1" y="0" width="2.0" height="8" fill="#58a6ff"/><rect x="252.1" y="0" width="2.0" height="8" fill="#58a6ff"/>
     </g>
   </g>
 
@@ -22,7 +22,7 @@
     </g><g transform="translate(0, 22)">
       <circle cx="5" cy="6" r="4" fill="#f1e05a"/>
       <text x="15" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#8B949E">JavaScript</text>
-      <text x="115" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="end">5.3%</text>
+      <text x="115" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="end">5.2%</text>
     </g><g transform="translate(130, 22)">
       <circle cx="5" cy="6" r="4" fill="#563d7c"/>
       <text x="15" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#8B949E">CSS</text>
