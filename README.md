@@ -1,445 +1,138 @@
-<h1 align="center">Hi 👋, I'm Anurag (UkatoSpeaks)</h1>
-
-<h3 align="center">
-AI / Full Stack Engineer | Backend & Agentic AI Developer | Building Real-World Systems
-</h3>
+<h1 align="center">Anurag Chaudhary</h1>
 
 <p align="center">
-  <a href="https://finalp-gray.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/UkatoSpeaks">
-    <img src="https://img.shields.io/badge/GitHub-UkatoSpeaks-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/anurag-chaudhary-238625309/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/AnuragGeeK">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=480&height=40&lines=AI+%2F+Full+Stack+Engineer;Building+agentic+AI+systems;FastAPI+%C2%B7+LangGraph+%C2%B7+Next.js" alt="AI / Full Stack Engineer · Building agentic AI systems · FastAPI · LangGraph · Next.js" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UkatoSpeaks&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/UkatoSpeaks?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
+  I build backends, AI agents and the products around them.
 </p>
 
----
+<p align="center">
+  <a href="https://ukato.vercel.app">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/anurag-chaudhary-238625309/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/AnuragGeeK">𝕏</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:chaudharyanurag801@gmail.com">Email</a>
+</p>
 
-## 👨‍💻 About Me
+<br />
 
-I'm a software developer focused on building **backend systems, AI-powered applications, and full-stack products**.
+## About
 
-I enjoy taking an idea from a simple concept to a working product — designing APIs, databases, authentication systems, AI workflows, and user-facing applications.
+- CS undergrad at **Graphic Era University** (class of 2027).
+- AI Engineer Intern at **Tsole Technologies** (Apr–Jun 2026): FastAPI/PostgreSQL backends, LangGraph/LangChain agent workflows, RAG with ChromaDB.
+- Open to **AI / Full Stack** internships and full-time roles.
 
-My current interests include:
-
-* Artificial Intelligence & Agentic AI
-* Backend Engineering
-* AI Agents & LLM Applications
-* REST APIs
-* System Design
-* Backend Architecture
-* Full-Stack Development
-* Data Structures & Algorithms
-
-> I don't just want to learn technologies — I want to build things with them.
-
----
-
-## 🚀 What I'm Currently Working On
-
-### ApplyAI
-
-An AI-powered job application automation platform designed to streamline parts of the job-search workflow.
-
-**Live:**
-https://job-application-ai-agent-1bxya6fcv.vercel.app/
-
-### LeetLens
-
-A DSA weakness analyzer that studies a user's problem-solving patterns and identifies areas that need improvement.
-
-### Code Reviewer Agent
-
-An Agentic AI system designed to automate and improve the code review process using LLM-powered workflows.
-
-**Repository:**
-https://github.com/UkatoSpeaks/Code-Reviewer-Agent
-
----
-
-## 🌱 Currently Learning
-
-```text
-Scikit-learn
-Advanced LangChain & LangGraph
-Agentic AI
-System Design
-Backend Architecture
-LLM Applications
-AI Agents
-```
-
----
-
-# 🚀 Featured Projects
+## Featured Projects
 
 <table>
-<tr>
-<td width="50%">
-
-### ApplyAI
-
-AI-powered job application automation platform that streamlines the job-search workflow.
-
-**Focus:** AI Agents • Automation • Full Stack
-
-<a href="https://job-application-ai-agent-1bxya6fcv.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="ApplyAI Live Demo" />
-</a>
-
-</td>
-
-<td width="50%">
-
-### Debugly
-
-AI-native debugging tool that analyzes stack traces, console logs, and runtime errors and provides precise code fixes.
-
-**Focus:** AI • Developer Tools • Debugging
-
-<a href="https://debugly-h3x4.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Debugly Live Demo" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ZenFlow
-
-Digital detox and focus tracker with focus timer, distraction blocking, and deep-work analytics.
-
-**Focus:** Productivity • Analytics • Full Stack
-
-<a href="https://zen-flow-dusky.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="ZenFlow Live Demo" />
-</a>
-
-</td>
-
-<td width="50%">
-
-### Code Reviewer Agent
-
-Agentic AI system using LLMs to automate and improve code review.
-
-**Focus:** LLMs • LangGraph • AI Agents
-
-<a href="https://github.com/UkatoSpeaks/Code-Reviewer-Agent">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code Reviewer Agent Repository" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### LeetLens
-
-DSA weakness analyzer that studies problem-solving patterns to surface areas for improvement.
-
-**Focus:** DSA • Analytics • Backend • AI
-
-<a href="https://github.com/UkatoSpeaks">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="LeetLens GitHub" />
-</a>
-
-</td>
-
-<td width="50%">
-
-### More Projects
-
-Explore my GitHub repositories for more AI experiments, backend systems, full-stack applications and developer tools.
-
-<a href="https://github.com/UkatoSpeaks?tab=repositories">
-<img src="https://img.shields.io/badge/View-All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories" />
-</a>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Kavach</h3>
+      <p>Real-time AI fraud and scam detection for Indian users: checks UPI IDs, links, messages and QR codes.</p>
+      <p><sub>Next.js · FastAPI · Supabase · Groq</sub></p>
+      <p><a href="https://kavach-mu-blush.vercel.app">Live</a> &nbsp;·&nbsp; <a href="https://github.com/UkatoSpeaks/Kavach">Repo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Patchwork <sub>🚧 In progress</sub></h3>
+      <p>Multi-agent coding team: a lead agent plans fixes for GitHub issues, and coder, tester and reviewer agents work in isolated worktrees.</p>
+      <p><sub>Python · Groq</sub></p>
+      <p><a href="https://github.com/UkatoSpeaks/PatchWork">Repo</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>ApplyAI</h3>
+      <p>AI job application automation that takes the repetitive work out of the job search.</p>
+      <p><sub>AI Agents · Automation · Full Stack</sub></p>
+      <p><a href="https://job-application-ai-agent-nine.vercel.app">Live</a> &nbsp;·&nbsp; <a href="https://github.com/UkatoSpeaks/job-application-ai-agent">Repo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>TacticLens</h3>
+      <p>Football tactical analysis: passing networks, PPDA, team-style clustering with K-Means/KNN and AI scouting reports.</p>
+      <p><sub>FastAPI · Next.js · scikit-learn</sub></p>
+      <p><a href="https://github.com/UkatoSpeaks/TacticLens">Repo</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Debugly</h3>
+      <p>AI-native debugging tool that reads stack traces and runtime errors and suggests precise fixes.</p>
+      <p><sub>AI · Developer Tools</sub></p>
+      <p><a href="https://debugly-h3x4.vercel.app">Live</a> &nbsp;·&nbsp; <a href="https://github.com/UkatoSpeaks/Debugly">Repo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Code Reviewer Agent</h3>
+      <p>LLM-powered code review agent built as a LangGraph workflow.</p>
+      <p><sub>Python · LangGraph · LLMs</sub></p>
+      <p><a href="https://github.com/UkatoSpeaks/Code-Reviewer-Agent">Repo</a></p>
+    </td>
+  </tr>
 </table>
 
----
+<p>
+  <sub>More: <a href="https://zen-flow-dusky.vercel.app">ZenFlow</a> · <a href="https://github.com/UkatoSpeaks/LeetLens">LeetLens</a> · <a href="https://github.com/UkatoSpeaks?tab=repositories">all repositories →</a></sub>
+</p>
 
-# 🏆 GitHub Trophies
+## Tech Stack
+
+<table>
+  <tr>
+    <td><b>AI / LLM</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=py&theme=dark" height="40" alt="Python" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/LangChain-1f2328?style=flat-square" alt="LangChain" />
+      <img src="https://img.shields.io/badge/LangGraph-1f2328?style=flat-square" alt="LangGraph" />
+      <img src="https://img.shields.io/badge/Groq-1f2328?style=flat-square" alt="Groq" />
+      <img src="https://img.shields.io/badge/ChromaDB-1f2328?style=flat-square" alt="ChromaDB" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,ts,js,cpp&theme=dark" height="40" alt="FastAPI, Node.js, TypeScript, JavaScript, C++" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" height="40" alt="Next.js, React, Tailwind CSS" /></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase&theme=dark" height="40" alt="PostgreSQL, MongoDB, Redis, Supabase" /></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,git,vercel,postman&theme=dark" height="40" alt="Docker, Git, Vercel, Postman" /></td>
+  </tr>
+</table>
+
+## GitHub Activity
 
 <p align="center">
-  <img
-    src="./profile/trophy.svg"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    height="170"
-    src="./profile/stats.svg"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="170"
-    src="./profile/top-langs.svg"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=UkatoSpeaks&theme=dark&hide_border=true"
-    alt="UkatoSpeaks GitHub Contribution Streak"
-  />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=UkatoSpeaks&theme=react-dark&hide_border=true&area=true"
-    alt="UkatoSpeaks GitHub Contribution Activity"
-  />
-</p>
-
----
-
-# 🛠️ Languages & Tools
-
-<p align="left">
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-</a>
-
-<a href="https://www.javascript.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-</a>
-
-<a href="https://isocpp.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-</a>
-
-<a href="https://go.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" alt="Go"/>
-</a>
-
-<a href="https://react.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
-</a>
-
-<a href="https://nextjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
-</a>
-
-<a href="https://redux.js.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
-</a>
-
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
-</a>
-
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
-</a>
-
-<a href="https://expressjs.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express"/>
-</a>
-
-<a href="https://www.djangoproject.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
-</a>
-
-<a href="https://flask.palletsprojects.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/>
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-</a>
-
-<a href="https://redis.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
-</a>
-
-<a href="https://kubernetes.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="40" height="40" alt="Kubernetes"/>
-</a>
-
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
-</a>
-
-<a href="https://www.nginx.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-</a>
-
-<a href="https://pytorch.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
-</a>
-
-<a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
-</a>
-
-<a href="https://opencv.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV"/>
-</a>
-
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/>
-</a>
-
-<a href="https://appwrite.io/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="40" height="40" alt="Appwrite"/>
-</a>
-
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
-</a>
-
-</p>
-
----
-
-# 🧠 AI & Backend Focus
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-6A5ACD?style=for-the-badge" alt="Agentic AI"/>
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge" alt="System Design"/>
-
-</p>
-
----
-
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/bzh1j00hdw/">
-<img src="https://img.shields.io/badge/LeetCode-bzh1j00hdw-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-
-<a href="https://github.com/UkatoSpeaks">
-<img src="https://img.shields.io/badge/GitHub-UkatoSpeaks-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://x.com/AnuragGeeK" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40" alt="X"/>
-</a>
-
-<a href="https://www.linkedin.com/in/anurag-chaudhary-238625309/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
-</a>
-
-<a href="https://leetcode.com/u/bzh1j00hdw/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40" alt="LeetCode"/>
-</a>
-
-<a href="mailto:chaudharyanurag801@gmail.com">
-<img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" height="40" alt="Email"/>
-</a>
-
-</p>
-
----
-
-# 📄 Resume & Portfolio
-
-<p align="center">
-
-<a href="https://finalp-gray.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
-<a href="https://drive.google.com/file/d/1JOfAzHBVIiVa_inQVP9LWPt7wVItPLy2/view?usp=drive_link">
-<img src="https://img.shields.io/badge/Resume-View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
-</a>
-
-<a href="https://github.com/UkatoSpeaks?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <i>Building. Learning. Shipping.</i>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UkatoSpeaks/UkatoSpeaks/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UkatoSpeaks/UkatoSpeaks/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/UkatoSpeaks/UkatoSpeaks/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  </picture>
 </p>
 
 <p align="center">
-  <i>Always working on the next thing.</i>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=UkatoSpeaks&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark&bg_color=0d1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=UkatoSpeaks&show_icons=true&hide_border=true&include_all_commits=true&theme=default&bg_color=ffffff" />
+    <img src="https://github-readme-stats.vercel.app/api?username=UkatoSpeaks&show_icons=true&hide_border=true&include_all_commits=true&theme=default&bg_color=ffffff" alt="GitHub stats" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UkatoSpeaks&label=profile%20views&color=555555&style=flat-square" alt="Profile views" />
+</p>
+
+<br />
+
+<p align="center">
+  <sub><i>I don't just learn technologies — I build things with them.</i></sub>
 </p>
