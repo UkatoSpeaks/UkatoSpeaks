@@ -145,6 +145,15 @@
     </td>
   </tr>
   <tr>
+    <td align="center"><b>Machine Learning</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv&theme=dark" height="40" alt="scikit-learn, PyTorch, TensorFlow, OpenCV" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    </td>
+  </tr>
+  <tr>
     <td align="center"><b>Backend</b></td>
     <td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,ts,js,cpp&theme=dark" height="40" alt="FastAPI, Node.js, TypeScript, JavaScript, C++" /></td>
   </tr>
@@ -173,14 +182,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=UkatoSpeaks&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UkatoSpeaks/UkatoSpeaks/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UkatoSpeaks/UkatoSpeaks/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/UkatoSpeaks/UkatoSpeaks/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-  </picture>
 </p>
 
 ---
